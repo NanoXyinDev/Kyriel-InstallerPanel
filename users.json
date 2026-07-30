@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "id": "admin-001",
+      "username": "admin",
+      "email": "admin@kyriel.dev",
+      "password": "$2a$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi",
+      "role": "admin",
+      "createdAt": "2026-07-30T00:00:00Z",
+      "lastLogin": "2026-07-30T00:00:00Z"
+    }
+  ]
+}
