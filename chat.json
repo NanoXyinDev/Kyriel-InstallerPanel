@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "id": "welcome-001",
+      "userId": "system",
+      "username": "KYRIEL",
+      "message": "Welcome to KYRIEL INSTALLER Global Chat! Be respectful and have fun.",
+      "createdAt": "2026-07-30T23:40:00Z"
+    },
+    {
+      "id": "welcome-002",
+      "userId": "system",
+      "username": "KYRIEL",
+      "message": "Deploy themes, share tips, and connect with the community here.",
+      "createdAt": "2026-07-30T23:40:01Z"
+    }
+  ]
+}
